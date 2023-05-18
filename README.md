@@ -1,4 +1,4 @@
 # Ejemplo Bedu
-Ejemlo de **GIT** y **GITHUB** 
+Ejemplo de **GIT** y **GITHUB** 
 ---
 *DANIEL*
